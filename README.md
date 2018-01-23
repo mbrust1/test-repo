@@ -2,6 +2,6 @@
 ## This is a not so big heading.
 ### even smaller
 
-*bold*
+**bold**
 
 _italic?_
